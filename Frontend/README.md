@@ -1,54 +1,20 @@
 # MERN E-COMMERCE SERVER 2024
 
-Hi! My name is **Abhishek Nahar Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Welcome to Ecommerce Website! Our platform is a cutting-edge online marketplace designed to provide customers with a seamless shopping experience. Whether you're searching for the latest fashion trends, high-quality electronics, or unique handmade crafts, our website has something for everyone.
 
-# Prerequisite
+At Ecommerce Website, we prioritize user satisfaction and convenience above all else. Our intuitive interface allows customers to effortlessly browse through our extensive product catalog, featuring thousands of items from trusted sellers around the globe. With powerful search functionality and advanced filtering options, finding the perfect product has never been easier.
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
-2.  TypeScript - https://youtu.be/66_bET6sI20
-3.  Node - https://youtu.be/BSO9C8Z-YV8
-4.  React In One Video - https://youtu.be/b50zSyLiCYQ
-5.  React Full Course - https://www.youtube.com/playlist?list=PLt5mNkGuWcuWSUHxSzWP74IU9U4BTVLt0
-6.  Express - https://youtu.be/teipbke8c4A\
-7.  MongoDB - https://youtu.be/AYDP1S5BbTo
-8.  Master Backend In One Video - https://youtu.be/cGAdC4A5fF4
-9.  RestApi - https://youtu.be/AhCSfuG9Jxw _(optional)_
+Features:
+Product Variety: Explore a diverse range of products spanning multiple categories, including fashion, electronics, home decor, beauty, and more.
+User Registration: Create a personalized account to enjoy exclusive benefits such as order tracking, saved favorites, and tailored recommendations.
+Secure Checkout: Shop with confidence knowing that your payment information is protected by state-of-the-art encryption technology.
+Order Management: Easily manage your orders, track shipments, and communicate with sellers directly through our integrated messaging system.
+Seller Dashboard: For vendors, our platform offers a comprehensive dashboard for managing inventory, processing orders, and analyzing sales data.
 
-# Install Dependencies
-
-**For Dev** - `npm i && npm run dev`
-**For Product** - `npm i && npm run preview`
-
-## Env Variables
-
-Make Sure to Create a .env file in root directory and add appropriate variables in order to use the app.
-
-**Essential Variables**
-
-VITE_FIREBASE_KEY= `from firebase`
-
-VITE_AUTH_DOMAIN= `from firebase`
-
-VITE_PROJECT_ID=`from firebase`
-
-VITE_STORAGE_BUCKET=`from firebase`
-
-VITE_MESSAGING_SENDER_ID=`from firebase`
-
-VITE_APP_ID=`from firebase`
-
-VITE_SERVER=`Your Backend Server URl`
-
-VITE_STRIPE_KEY=`Stripe Publishable Key`
-
-_fill each filed with your info respectively_
-
-## Author
-
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
-
-**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
-
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
-
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
+Technologies Used:
+TypeScript
+React.js
+Node.js
+Express.js
+MongoDB
+HTML5/CSS3
